@@ -96,7 +96,3 @@ All `.py` files will be saved to your browser's default download location.
 - Tested on Chrome and Firefox
 
 ---
-
-## License
-
-MIT
